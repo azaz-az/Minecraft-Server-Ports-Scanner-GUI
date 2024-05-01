@@ -1,3 +1,15 @@
+> [!IMPORTANT]
+> 
+> 本仓库已归档，欲获得本仓库的后续维护，请前往 [hite4044 的原作](https://github.com/hite4044/Minecraft-Server-Ports-Scanner-GUI)查看。
+
+***
+
+> [!NOTE]
+>
+> 以下内容为原 `README.md` 内容，在此留档。
+
+***
+
 # *Minecraft-Server-Ports-Scanner-GUI*
 
 > [!IMPORTANT]
